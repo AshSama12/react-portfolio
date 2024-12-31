@@ -8,7 +8,7 @@ const Projects = () => {
       description:
         "A user-friendly and visually appealing travel booking web application designed to showcase the beauty and cultural diversity of Sri Lanka. Features include modern design, package customization, and streamlined navigation.",
       image: "/assests/web development.jpg",
-      link: "https://github.com/AshSama12/Vista-Lanka-Web-Page",
+      link: "https://github.com/AshSama12/travel-agency-website.git",
     },
     {
       title: "Exam Registration System",
