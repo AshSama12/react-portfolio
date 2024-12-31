@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  scroll-behavior: smooth; /* Enables smooth scrolling between sections */
+}
+
+section {
+  padding: 100px 20px;
+  min-height: 100vh; /* Each section covers the full viewport */
+}
+
+/* Section-specific styles */
+#home {
+  background-color: #282c34;
+  color: white;
+}
+
+#about {
+  background-color: #1a202c;
+  color: #f7fafc;
+}
+
+#skills {
+  background-color: #2d3748;
+  color: white;
+}
+
+#projects {
+  background-color: #4a5568;
+  color: #f7fafc;
+}
+
+#contact {
+  background-color: #1a202c;
+  color: white;
+}
