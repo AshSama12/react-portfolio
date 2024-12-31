@@ -58,6 +58,10 @@ This portfolio is built using the following technologies:
 You can view my portfolio live at:  
 [https://ashsama12.github.io/react-portfolio/](https://ashsama12.github.io/react-portfolio/)
 
+Demo video
+https://github.com/user-attachments/assets/413b7b28-99f7-409e-b2ec-bed81d6a5875
+
+
 To run this project locally on your machine:
 
 1. Clone the repository:
