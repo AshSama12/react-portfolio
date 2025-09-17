@@ -26,19 +26,21 @@ function About() {
           <div className="about-description">
             <p>
               Motivated 4th-year Computer Engineering student at the University
-              of Jaffna with experience in software quality assurance and
-              automated testing using tools like Selenium. Skilled in
-              debugging and ensuring software reliability, with a strong focus
-              on delivering high-quality solutions. Eager to contribute to
-              innovative projects in a dynamic team environment.
+              of Jaffna with a passion for full-stack development and AI technologies.
+              Experienced in frontend development using React and JavaScript, backend
+              development with .NET Core, and passionate about machine learning and
+              deep learning applications. Skilled in building scalable web applications
+              and developing intelligent systems for real-world problems.
             </p>
             {readMore && (
               <p className="read-more-text">
-                I have participated in hackathons and team-based projects,
-                showcasing leadership and problem-solving skills. My technical
-                expertise includes machine learning, web development, and
-                version control systems. I aspire to be part of a collaborative
-                team that works on cutting-edge technologies.
+                My expertise spans across web development with ASP.NET Core and React,
+                as well as AI/ML technologies including computer vision, anomaly detection,
+                and data analysis. Currently working on research projects involving deep
+                learning for safety applications. I've participated in hackathons and
+                team-based projects, showcasing leadership and problem-solving skills.
+                I aspire to work in innovative environments that combine web development
+                with cutting-edge AI technologies.
               </p>
             )}
             <button className="read-more-btn" onClick={handleReadMore}>

@@ -73,7 +73,7 @@ function Home() {
         </div>
         <div className="image-container">
           <img
-            src="/assests/ashini2.png"
+            src="/assests/profile.png"
             alt="Ashini Samaranayake"
             className="profile-image"
           />

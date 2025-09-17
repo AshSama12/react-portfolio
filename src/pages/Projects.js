@@ -4,11 +4,25 @@ import "./Projects.css";
 const Projects = () => {
   const projectData = [
     {
-      title: "Vista Lanka Web Page",
+      title: "Travel Agency Website [Fullstack]",
       description:
-        "A user-friendly and visually appealing travel booking web application designed to showcase the beauty and cultural diversity of Sri Lanka. Features include modern design, package customization, and streamlined navigation.",
+        "A comprehensive fullstack travel booking web application designed to showcase the beauty and cultural diversity of Sri Lanka. Features include modern design, package customization, streamlined navigation, and complete backend functionality.",
       image: "/assests/web development.jpg",
-      link: "https://github.com/AshSama12/travel-agency-website",
+      link: "https://github.com/AshSama12/TravelAgencyWeb",
+    },
+    {
+      title: "MediCenter - Medical Database Management System",
+      description:
+        "A comprehensive database management system for medical centers built with ASP.NET Core MVC and C#. Features patient management, drug inventory tracking, prescription workflows, and advanced search functionality. Utilizes Entity Framework Core, SQL Server, and Bootstrap for a responsive healthcare interface.",
+      image: "/assests/medical center.jpg",
+      link: "https://github.com/AshSama12/MediCenter",
+    },
+    {
+      title: "Vehicle Management System",
+      description:
+        "A comprehensive web application for managing company fleet vehicles and employee bookings built with Java 17 and Spring Boot 3. Features role-based access control, real-time vehicle availability tracking, automated booking conflict detection, and maintenance scheduling with secure authentication.",
+      image: "/assests/vehicle management.jpg",
+      link: "https://github.com/AshSama12/VehicleManagementSystem",
     },
     {
       title: "Exam Registration System",
@@ -25,11 +39,11 @@ const Projects = () => {
       link: "https://github.com/AshSama12/online-shoppers-purchasing-intention-dataset-analyze",
     },
     {
-      title: "Yellow Color Detection",
+      title: "Anomaly Detection in Wearing PPE [Research Project]",
       description:
-        "A Python-based project that detects yellow-colored objects using a webcam. Implemented using OpenCV and NumPy.",
+        "An ongoing research project using computer vision and deep learning to create an effective anomaly detection system that identifies whether construction workers are wearing necessary PPE (helmet, vest, and boots). Features two specialized models: one for human detection and another for PPE detection, with high precision, recall, and resilience to lighting and weather changes.",
       image: "/assests/computer vision.jpg",
-      link: "https://github.com/AshSama12/yellow-color-detection",
+      link: "https://github.com/AshSama12/Anomaly-detection-in-wearing-PPE",
     },
   ];
 
